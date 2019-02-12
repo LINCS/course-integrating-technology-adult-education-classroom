@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="64" moduleid="292" modulename="page" contextid="1832">
+  <page id="64">
+    <name>Module 3 Introduction</name>
+    <intro>&lt;p&gt;intro&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Welcome to Module 3: &lt;em&gt;What Tools Can You Use to Integrate Technology? &lt;/em&gt;In Modules 1 and 2, we explored why technology is important for instruction and learning and how to approach integrating technology. In this final module, we will examine what technology tools are available for integrating technology into your instruction. Technology tools are continually evolving; therefore, rather than providing a running list of technology tools used in education, this module introduces a system for categorizing the different types of technology tools and provides examples of tools that have educational applications for each category. The module concludes with real-life examples of how adult educators have integrated these technology tools in the classroom. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;After completing Module 3, you will be able to:&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Explain the characteristics of the five categories of technology tools&lt;/li&gt;
+&lt;li&gt;Describe an example of a technology tool and lesson idea for each of the five categories of tools&lt;/li&gt;
+&lt;li&gt;Identify the benefits of a lesson plan in which technology is integrated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Please allow approximately 60 minutes to complete this module. There are a number of tools introduced in this module; we recommend that you select one tool to try now, and then come back to this module to access other tools in the future.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #9f2c29;"&gt;Contine onto Module 3, Session 1 Subtopics&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>17</revision>
+    <timemodified>1386711309</timemodified>
+  </page>
+</activity>

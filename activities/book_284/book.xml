@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="284" modulename="book" contextid="1824">
+  <book id="3">
+    <name>Module 1, Session 2 Subtopics</name>
+    <intro>&lt;p style="padding-left: 30px;"&gt;Technology Makes Learning Relevant&lt;br /&gt;Technology Makes Learning Tasks Authentic and Challenging&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1382561979</timecreated>
+    <timemodified>1386711339</timemodified>
+    <chapters>
+      <chapter id="12">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 2: Technology Can Deepen Learning</title>
+        <content>&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;In the last session, you learned about how technology can improve instruction by supporting the Universal Design for Learning (UDL) approach to presenting material. As technology tools continue to advance, instructors have numerous opportunities to present material in a variety of modalities and formats in order to increase student engagement with content. Furthermore, technology can improve instruction by allowing teachers to integrate essential 21st century employment skills into their classroom lessons. In Session 2, we explore how technology can deepen student learning by making learning more relevant and providing students with access to authentic and challenging tasks.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562071</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="13">
+        <pagenum>2</pagenum>
+        <subchapter>1</subchapter>
+        <title>Technology Makes Learning Relevant </title>
+        <content>&lt;p&gt;Technology makes learning relevant by allowing teachers to incorporate devices, tools, and content that students are already using or need to use in their lives outside of the classroom. The number of students in adult education classes who use technology daily is growing, and includes those who use smartphones, tablets, or computers. In a 2013 study on Cell Phone Activities, the Pew Research Center’s Internet &amp;amp; American Life Project found that – among a sample of 2,252 American adults age 18 and older - 91% owned a cell phone. Among those who owned a cell phone, 56% owned a smartphone, with the rise of smartphones contributing to the increase in overall cell phone usage. Many of our adult learners are now entering the adult education classroom with experience in sending or receiving text messages, accessing the internet, sending and receiving emails, getting directions, listening to music, and even downloading applications on their mobile devices.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="386" height="264" alt="The Cell Phone Activities graphic shows the percentage of cell phone owners who use their cell phones for different activities. 81 percent send or receive text messages. 60 percent access the internet. 52   percent send or receive email. 50 percent download apps. 49 percent get   directions, recommendations, or other location-based information. 48 percent   listen to music. 21 percent participate in a video call or video chat. and 8   percent &amp;quot;check in&amp;quot;, or share their locations. The source is cited as: Pew   Research Center's Internet and American Life Project Spring Tracking Survey,   dated April 17-May 19, 2013. N=2076 cell phone users. Interviews were   conducted in English and Spanish and on landline and cell phones. The margin   of error for results based on all cell phone owners is plus or minus 2.4 percentage points." src="@@PLUGINFILE@@/Mod1_Sess2_cellphonechart.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Chart source: Duggan, Maeve. (2013, September 19). Cell phone activities 2013: Main findings. Pew Research Center, Washington, D.C. Retrieved from the Pew Internet and American Life Project website on October 7, 2013 &lt;a href="http://pewinternet.org/Reports/2013/Cell-Activities/Main-Findings.aspx"&gt;http://pewinternet.org/Reports/2013/Cell-Activities/Main-Findings.aspx&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;&lt;span style="font-size: x-small;"&gt;&lt;/span&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p class="Feedback"&gt;&lt;b&gt;Pew Research Center Study – Cell Phone Activities 2013&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Read more about the Cell Phone Activities 2013 study at the Pew Research Center Study website. You can download the full report, explore the survey questions, and review the methodology here: &lt;a href="http://pewinternet.org/Reports/2013/Cell-Activities.aspx"&gt;http://pewinternet.org/Reports/2013/Cell-Activities.aspx&lt;/a&gt;&lt;span style="font-size: small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562126</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="14">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Technology Makes Learning Relevant</title>
+        <content>&lt;p&gt;In addition to the increase in cell phone usage, particularly smartphone usage, technology skills are now essential to accomplish everyday tasks. Some of the activities most people are expected to do online include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Search and apply for jobs&lt;/li&gt;
+&lt;li&gt;Fill out forms (e.g., health information for medical care, credit card applications)&lt;/li&gt;
+&lt;li&gt;Pay bills and monitor bank accounts&lt;/li&gt;
+&lt;li&gt;Check children’s school schedules and special announcements (e.g., weather or emergency-related school closings)&lt;/li&gt;
+&lt;li&gt;Register for classes or trainings&lt;/li&gt;
+&lt;li&gt;Get driving directions and make travel plans (e.g., booking flights or trains)&lt;/li&gt;
+&lt;li&gt;Stay in touch with family and friends through email, video, or social networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Consider how frequently you go online to accomplish these and other tasks. In each case, there is a great deal of learning involved – and possible new skills to gain – in knowing how to navigate websites, click in fields to type information or choose from drop-down menus, or click on buttons (such as “submit” or “pay”) to complete transactions.&lt;/p&gt;
+&lt;p&gt;Now, consider how students may already be using technology to accomplish these and other tasks. If they are not already using common forms of technology, what additional skills do they need to be able to do so? With the amount of information available and, in many cases, required to be accessed online, teachers have the opportunity to bring these real-life experiences into the classroom through the use of technology in instruction.&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Stop and Reflect&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p class="Feedback"&gt;&lt;b&gt;What technology devices do your students have access to? What are some of the everyday tasks your students are using these technology devices to accomplish? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Survey your students and share your findings with your peers in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-integrating-technology-adult-education-classroom"&gt;LINCS Technology and Learning Group&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562182</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="15">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Technology Makes Learning Authentic and Challenging</title>
+        <content>&lt;p&gt;In addition to making learning relevant, technology makes learning tasks authentic and challenging. Student learning, concentration, and academic performance improves when students spend more time on task. With careful planning, building unit projects or lessons integrating the use of technology can increase student time on task. With technology, learning or collaboration with peers is no longer confined to a physical space; rather, students can learn at their own pace online, communicate with their peers outside of class time, and collaborate in virtual environments easily. In many cases, student work that is collaborated on in the virtual environment is also made public to everyone on the internet. The excitement of creating a product or presentation for public viewing (outside of their teacher and classmates) motivates students to work harder and spend more time perfecting the final product.&lt;/p&gt;
+&lt;p&gt;Later in this course, you will read about how adult education instructors have utilized technology to improve instruction and deepen learning, and the improved student outcomes that resulted from the thoughtful use of technology in the classroom.&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Using Technology to Increase Time on Task&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;In their article on Educause, “&lt;a href="http://www.educause.edu/ero/article/using-technology-increase-quality-time-task"&gt;Using Technology to Increase Quality Time on Task&lt;/a&gt;," Berlin Fang and James D. Dvorak (2013) discuss how the use of technology impacts student work.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1384186050</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="16">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Summary</title>
+        <content>&lt;h3&gt;The key points covered in this module were:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Technology improves instruction by supporting the Universal Design for Learning’s (UDL) approach to presenting material. Technology can be integrated in the classroom in order to provide multiple means of representation of material; provide multiple means of action and expression; and provide multiple means of engagement for students.&lt;/li&gt;
+&lt;li&gt;Technology improves instruction by integrating 21st&lt;sup&gt;t&lt;/sup&gt; century employment skills, particularly information, communication, and technology (ICT) skills – skills that are essential to succeed in life and work.&lt;/li&gt;
+&lt;li&gt;Technology can deepen student learning by making learning relevant, authentic, and challenging. With careful planning, the use of technology can increase student time on task, which improves student learning, concentration, and academic performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="color: #9f2c2f;"&gt;Continue onto Module 2 Introduction&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1384186146</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

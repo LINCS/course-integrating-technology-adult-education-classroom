@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="10" moduleid="306" modulename="resource" contextid="1884">
+  <resource id="10">
+    <name>Appendix C: Technology Tools in Educational Context</name>
+    <intro>&lt;p&gt;list of tools&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>4</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1389211147</timemodified>
+  </resource>
+</activity>

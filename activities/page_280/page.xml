@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="60" moduleid="280" modulename="page" contextid="1820">
+  <page id="60">
+    <name>Module 1 Introduction</name>
+    <intro>&lt;p&gt;intro&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Welcome to Module 1: &lt;em&gt;Why is Technology Important for Instruction and Learning?&lt;/em&gt; Technology permeates our lives, and accessing information through the use of technology is now a prerequisite for many important activities in adult life. Adult education instructors can bring information into the classroom, as well as extend learning outside the classroom, through technology. In today’s society, our students need to learn how to find the information they need, how to evaluate the information they find, how to communicate with others, and how to perform practical technology-related tasks, like filling out forms online. These are global skills that are seen as important enough to adults to be included in the ground-breaking study, &lt;em&gt;Survey of Adult Skills&lt;/em&gt;, conducted by the &lt;a href="http://www.oecd.org/"&gt;Organisation for Economic Co-operation and Development (OECD)&lt;/a&gt;. (There is more information on this study below.)&lt;/p&gt;
+&lt;p style="text-align: left; margin-bottom: 20px;"&gt;Before you begin, view this short three-minute video: &lt;em&gt;ICT is Not the Goal.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left; margin-bottom: 20px;"&gt;&lt;a href="http://www.youtube.com/watch?v=EccJQZwUwPs&amp;amp;sns=em"&gt;&lt;/a&gt;The video provides a concise summary of the reason for integrating technology in the classroom. It is recommended that you share the video with colleagues who have reservations about the importance of technology and its integration in the classroom. In Module 1, we explore in-depth why technology is important for instruction and learning.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;After completing Module 1, you will be able to:&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Describe how technology supports the three principals of UDL&lt;/li&gt;
+&lt;li&gt;Explain how technology integrates 21st century employment skills&lt;/li&gt;
+&lt;li&gt;Discuss how technology can deepen learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Please allow approximately 60 minutes to complete this module.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="text-align: left; margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;/h4&gt;
+&lt;h5&gt;&lt;br /&gt;OECD's Survey of Adult Skills&lt;/h5&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;The &lt;em&gt;Survey of Adult Skills&lt;/em&gt; is a household study conducted by the Organisation for Economic Co-operation and Development that assesses and compares the basic skills and the broad range of competencies of adults aged 16-65 in 23 countries around the world. The study focuses on cognitive and workplace skills needed for successful participation in 21st century society and the global economy. Specifically, the report measures relationships between individuals' educational background, workplace experiences and skills, occupational attainment, use of information and communications technology, and cognitive skills in the areas of literacy, numeracy, and problem solving. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://piaacgateway.com/"&gt;Click here&lt;/a&gt; to access the Program for the International Assessment of Adult Competencies (PIAAC) Gateway for more information about the &lt;em&gt;Survey of Adult Skills&lt;/em&gt; study and related events, news, resources. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #9f2c29;" color="#9f2c29"&gt;Continue onto Module 1, Session 1 Subtopics&lt;a title="Book" href="$@BOOKVIEWBYID*282@$"&gt;&lt;br /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>26</revision>
+    <timemodified>1386711354</timemodified>
+  </page>
+</activity>

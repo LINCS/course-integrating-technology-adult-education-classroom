@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="28" contextid="1814">
+  <shortname>Integrating Technology</shortname>
+  <fullname>Integrating Technology in the Adult Education Classroom</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p class="yiv5434361146msonormal"&gt;The course is designed for instructors who are at the beginner/intermediate level of knowledge of technology tools and technology integration in the classroom. This course examines the &lt;i&gt;why&lt;/i&gt;, &lt;i&gt;how&lt;/i&gt;, and &lt;i&gt;what&lt;/i&gt; questions for integrating technology in the adult education classroom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;Why&lt;/i&gt;&lt;/b&gt; is technology important for instruction and learning?&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;How&lt;/i&gt;&lt;/b&gt; do you approach integrating technology?&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;What&lt;/i&gt;&lt;/b&gt; tools can you use to integrate technology?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;This course takes approximately 4 hours to complete.&lt;/span&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>0</newsitems>
+  <startdate>1388638800</startdate>
+  <marker>0</marker>
+  <maxbytes>52428800</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme>lincs_kratos</theme>
+  <timecreated>1369768248</timecreated>
+  <timemodified>1429227999</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>5</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>7</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>1</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="11">
+    <name>LINCS Technology and Learning</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

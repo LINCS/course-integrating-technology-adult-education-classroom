@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="305" modulename="resource" contextid="1883">
+  <resource id="9">
+    <name>Appendix D: References</name>
+    <intro>&lt;p&gt;list of all sources referenced in this course.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>4</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1389211049</timemodified>
+  </resource>
+</activity>

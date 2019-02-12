@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="279" modulename="book" contextid="1819">
+  <book id="1">
+    <name>Introduction and Prerequisites</name>
+    <intro>&lt;p&gt;  &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1382545683</timecreated>
+    <timemodified>1385404856</timemodified>
+    <chapters>
+      <chapter id="1">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>LINCS Technology and Learning Group</title>
+        <content>&lt;h3&gt;Join the LINCS Community and Participate in Course Discussions&lt;/h3&gt;
+&lt;p&gt;This course builds in opportunities to connect with other adult education practitioners who are interested in the topic of technology through the LINCS Community. Before you begin the course, take a moment to register as a member of the &lt;a href="https://community.lincs.ed.gov/"&gt;LINCS Community&lt;/a&gt; and introduce yourself in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-integrating-technology-adult-education-classroom"&gt;LINCS Technology and Learning Group&lt;/a&gt;. This group is an open discussion forum where you can communicate and share ideas with other practitioners. Throughout this course, you will have the opportunity to share your experiences and insights as you learn about and practice integrating technology in the classroom. We encourage you to participate!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;img width="550" height="553" alt="image of LINCS Community landing page located at: https://community.lincs.ed.gov/." src="@@PLUGINFILE@@/LINCS_CommPg_grabNEW.jpg" /&gt;&lt;/h1&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382545890</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="2">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Welcome!</title>
+        <content>&lt;p&gt;Welcome to &lt;i&gt;Integrating Technology in the Adult Education Classroom.&lt;/i&gt; Technology has become an integral part of everyday life; however, its usage in the adult education classroom is still in varying stages of integration. Factors that contribute to this wide disparity include:  rapid advances in technological tools; lack of infrastructure and funding to support purchasing and upgrading hardware, software and services; the need for additional instructor and learner skills to access new technologies; and scarcity of time for teacher professional development, preparation, and planning. Nevertheless, research shows that, time and again, technology can improve instruction and deepen student learning. This course examines the &lt;i&gt;why&lt;/i&gt;, &lt;i&gt;how&lt;/i&gt;, and &lt;i&gt;what&lt;/i&gt; questions for integrating technology in the adult education classroom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;Why&lt;/i&gt;&lt;/b&gt; is technology important for instruction and learning?&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;How&lt;/i&gt;&lt;/b&gt; do you approach integrating technology?&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;What&lt;/i&gt;&lt;/b&gt; tools can you use to integrate technology?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This course covers the purposes for integrating technology, explores guidelines for planning to integrate technology into instruction, and organizes thinking about the wide range of technology tools available. Examples of adult education practitioners’ experiences in integrating technology are incorporated throughout the course. In the culminating activity, you will create a Technology Integration Action Plan for a unit or lesson that you select for use with your adult learners.&lt;/p&gt;
+&lt;p&gt;This course is divided into three modules and a multi-step activity. The estimated completion time for the entire course is approximately four (4) hours. We encourage you to complete one module at a time, and to revisit the modules as needed.&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Disclaimer:  &lt;/i&gt;&lt;/b&gt;&lt;i&gt;This course contains links to external websites and resources. These links were operational at the time the course was created (October 2013), but may change over time. The course authors and host site are not responsible for changes made to external website links, although an attempt will be made to update them when necessary. To find out more about new technology tools as they become available, visit the LINCS Community &lt;/i&gt;&lt;a href="https://community.lincs.ed.gov/group/technology-and-learning"&gt;Technology and Learning Group&lt;/a&gt;&lt;i&gt; for ongoing discussions with adult education practitioners across the country about technology tools and their application in education.  &lt;/i&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;The Integrating Technology in the Adult Education Classroom training was developed by Kratos Learning for the U.S. Department of Education, Office of Vocational and Adult Education under Contract No. ED-VAE-11-C-0048. The opinions expressed herein do not necessarily represent the positions or policies of the U.S. Department of Education, and no official endorsement by the U.S. Department of Education should be inferred. This course is in the public domain and may be used without permission.&lt;/em&gt;&lt;/span&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382546146</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="3">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Prerequisite Activity</title>
+        <content>&lt;h4&gt;Review Basic Components of Computer Literacy&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Participants should be familiar with basic computer literacy, including computer terms and components (hardware), keyboarding skills, Internet terms and navigation, computer skills assessments, Internet skills assessments, and basic software (e.g., Microsoft Word, PowerPoint, and Publisher). To help determine your skill level in preparation for taking this course, you may want to take the &lt;a href="http://www.adultedonline.org/index.cfm"&gt;Technology Integration Self-Assessment (TISA)&lt;/a&gt;. The TISA can help you determine where you may need to improve your skills and increase your level of comfort with technology. By completing the assessment, you can generate a printable plan for your own professional development in technology skills.&lt;/p&gt;
+&lt;p class="yiv5434361146msonormal"&gt;In addition to the TISA, below is a list of websites that offer tutorials and assessments on these prerequisite skills. You can choose to take some of these tutorials now, based on your needs and TISA results, or come back and explore them later. These resources may also be useful to share with your students, if you find they need a little extra help in certain areas.&lt;/p&gt;
+&lt;p class="yiv5434361146msonormal"&gt;NOTE:  If you have difficulty accessing sites when you click on web links throughout this course, you may need to copy and paste the web address into your browser’s search feature. Complete web addresses have been provided in &lt;a href="@@PLUGINFILE@@/References.pdf" target="_blank"&gt;Appendix D: References&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 class="yiv5434361146msonormal"&gt;&lt;br /&gt;Computer Literacy Skills&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Computer Skills Curriculum: &lt;a href="http://spclc.org/curricula-resources/computer-curriculum"&gt;http://spclc.org/curricula-resources/computer-curriculum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Computer Literacy Instructional Resources: &lt;a href="http://mnliteracy.org/educators/adult/technology/computer-skills"&gt;http://mnliteracy.org/educators/adult/technology/computer-skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Keyboard skills: &lt;a href="http://www.sense-lang.org/typing/"&gt;http://www.sense-lang.org/typing/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mouse Skills: &lt;a href="http://www.seniornet.org/howto/mouseexercises/mousepractice.html"&gt;http://www.seniornet.org/howto/mouseexercises/mousepractice.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Northstar Basic Computer Skills Assessment: &lt;a href="http://www.digitalliteracyassessment.org/index.php"&gt;http://www.digitalliteracyassessment.org/index.php&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt; &lt;br /&gt;Internet Skills&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Internet 101: &lt;a href="http://www.internet101.org/"&gt;http://www.internet101.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt; &lt;/h4&gt;
+&lt;h4&gt;Microsoft Software Skills&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft PowerPoint 2010 for Beginners: &lt;a href="http://www.gcflearnfree.org/powerpoint2010"&gt;http://www.gcflearnfree.org/powerpoint2010&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft Publisher 2010 for Beginners: &lt;a href="http://www.gcflearnfree.org/publisher2010"&gt;http://www.gcflearnfree.org/publisher2010&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft Word 2010 for Beginners: &lt;a href="http://www.gcflearnfree.org/word2010"&gt;http://www.gcflearnfree.org/word2010&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #9f2c29;"&gt;Continue onto&lt;/span&gt; Module 1 Introduction&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382560123</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="4">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Course Outline</title>
+        <content>&lt;h3&gt;Module 1: Why is technology important for instruction and learning?&lt;/h3&gt;
+&lt;p style="padding-left: 30px;"&gt;Session 1: Technology can improve instruction&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;What the research says&lt;/li&gt;
+&lt;li&gt;Technology supports Universal Design for Learning (UDL)&lt;/li&gt;
+&lt;li&gt;Technology integrates 21st century employment skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p style="padding-left: 30px;"&gt;Session 2: Technology can deepen learning&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Technology makes learning relevant&lt;/li&gt;
+&lt;li&gt;Technology makes learning tasks authentic and challenging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;h3&gt; &lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Module 2: How do you approach integrating technology?&lt;/h3&gt;
+&lt;p style="padding-left: 30px;"&gt;Session 1: Identify considerations when planning for instruction&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to the POST Method&lt;/li&gt;
+&lt;li&gt;Application of the POST Method&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p style="padding-left: 30px;"&gt;Session 2: Apply guidelines for planning for instruction&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to the Technology Integration Action Plan&lt;/li&gt;
+&lt;li&gt;Reflections from adult education instructors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;h3&gt; &lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Module 3: What tools can you use to integrate technology?&lt;/h3&gt;
+&lt;p style="padding-left: 30px;"&gt;Session 1: Five categories of technology tools&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to the five categories of technology tools (multimodal communication tools, collaborative writing tools, productivity tools, online networking tools, 1:1 and mobile learning tools)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p style="padding-left: 30px;"&gt;Session 2: Observe classroom activities for each category of tools&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Technology tools and classroom examples&lt;/li&gt;
+&lt;li&gt;Reflections from adult education instructors&lt;/li&gt;
+&lt;li&gt;Reflecting on integrating technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;h3&gt; &lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Culminating Activity&lt;/h3&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1384957417</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

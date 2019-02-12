@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="302" modulename="resource" contextid="1842">
+  <resource id="6">
+    <name>Appendix B: Sample Technology Integration Action Plan</name>
+    <intro>&lt;p&gt;sample of Plan filled out&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>4</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>5</revision>
+    <timemodified>1389197131</timemodified>
+  </resource>
+</activity>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="287" modulename="book" contextid="1827">
+  <book id="4">
+    <name>Module 2, Session 1 Subtopics</name>
+    <intro>&lt;p&gt;test&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1383934152</timecreated>
+    <timemodified>1385405070</timemodified>
+    <chapters>
+      <chapter id="17">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 1: Identify Considerations When Planning for Instruction</title>
+        <content>&lt;h3&gt;Introduction to the POST Method&lt;/h3&gt;
+&lt;p&gt;As mentioned in Module 1, technology itself does not produce learning; rather, it amplifies and extends learning. For technology to be effective it needs to be integrated into the lessons you are teaching. There are several methods and frameworks that can help you integrate technology more effectively. The &lt;strong&gt;SAMR (Substitution, Augmentation, Modification, Redefinition)&lt;/strong&gt; Model, the &lt;strong&gt;TPACK (Technological, Pedagogical, Content, Knowledge)&lt;/strong&gt; Framework, and the &lt;strong&gt;POST (People, Objectives, Strategy, Technology)&lt;/strong&gt; Method are three that are particularly useful.&lt;/p&gt;
+&lt;p&gt;In this module, we will be concentrating on the POST Method. This model provides a simple and streamlined approach to integrating technology centered on your students’ goals and needs.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p class="Feedback"&gt;Edutopia has put together a useful guide to integrating technology specifically looking at the &lt;strong&gt;SAMR (Substitution, Augmentation, Modification, Redefinition)&lt;/strong&gt; Model and the &lt;strong&gt;TPACK (Technological Pedagogical Content Knowledge)&lt;/strong&gt; Framework. &lt;a href="http://www.edutopia.org/technology-integration-guide-description"&gt;Click here&lt;/a&gt; to go to Edutopia's Guide to Integrating Technology.&lt;/p&gt;
+&lt;p&gt;To learn more, you can access podcasts by Dr. Ruben Puentedura on SAMR and TPACK &lt;a href="https://itunes.apple.com/itunes-u/as-we-may-teach-educational/id380294705?mt=10#ls=1"&gt;here&lt;/a&gt;.&lt;span style="font-size: small;"&gt; &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936264</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="18">
+        <pagenum>2</pagenum>
+        <subchapter>1</subchapter>
+        <title>Introduction to the POST Method</title>
+        <content>&lt;p&gt;The &lt;a href="http://forrester.typepad.com/groundswell/2007/12/the-post-method.html"&gt;POST Method&lt;/a&gt; was originally developed by Josh Bernoff and Ted Schadler to help companies develop their social media strategies. Rather than a company developing their strategy with the technology tool first, Bernoff and Schadler suggest that that they first look at the capabilities of their audience. The audience is made up of people, and People are the P in the POST Method. The O in POST stands for Objectives, followed by S for Strategy, and finally T for Technology.&lt;/p&gt;
+&lt;p&gt;While the POST Method was created for marketing purposes, it has a clear resonance with the integration of technology in instruction and learning.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read the original article about the POST Method, "&lt;a href="http://forrester.typepad.com/groundswell/2007/12/the-post-method.html"&gt;The POST Method: A systematic approach to social strategy&lt;/a&gt;" by Josh Bernoff.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936319</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="19">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>The P in the POST Method: People</title>
+        <content>&lt;p&gt;When planning for integrating technology into instruction, there are several considerations you must make. The first consideration is about your students. First ask yourself the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Who are your students and what are their learning goals?&lt;/strong&gt; &lt;br /&gt;Helping students develop and state their learning goals helps students become active learners and allows you as the teacher to shape lessons that are particularly meaningful to the student. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What are your students’ existing technology skills, areas of challenge, and level of access to technology devices?&lt;/strong&gt; &lt;br /&gt;It is important to understand students’ baseline technology skills so that you are not selecting tools that require significantly more advanced skills than the students currently have. What technology are your students familiar with? What technology devices do your students already have and use regularly? If you are selecting a tool that requires skills that the students do not yet have, then time and instruction on those skills must be considered and accounted for in the planning process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936336</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="20">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>The P in the POST Method: People</title>
+        <content>&lt;h3&gt;Assessing Student Goals&lt;/h3&gt;
+&lt;p&gt;According to Comings, Perella, and Soricone (1999), learners who have specific goals in mind are more likely to persist in their studies. The primary incentive for learner persistence is the learner’s ability to set a goal and see progress in reaching that goal.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Components of the goal-setting process include teachers helping learners to: Identify goals that are meaningful to them, keeping goals small or breaking down long-term goals into smaller, more readily achievable goals&lt;/li&gt;
+&lt;li&gt;Organize and prioritize goals Identify benefits of and barriers to reaching their top-ranked goals&lt;/li&gt;
+&lt;li&gt;Write positive goal statements to make the goal tangible&lt;/li&gt;
+&lt;li&gt;Create a goal plan that includes interim steps and deadlines toward achieving each step&lt;/li&gt;
+&lt;li&gt;Monitor progress and revise goals, as needed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;To read the entire section on setting and monitoring student goals from TEAL, &lt;a href="https://teal.ed.gov/tealGuide/setgoals"&gt;click here&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936407</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="21">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>The P in the POST Method: People</title>
+        <content>&lt;h3&gt;Assessing Student Technology Skills and Areas of Challenge&lt;/h3&gt;
+&lt;p&gt;In addition to assessing student learning goals, you must also have some sense of your students' technology abilities when planning to integrate technology. In Minnesota, a number of organizations, including the St. Paul Public Library and St. Paul Community Literacy Consortium, came together to develop an online tool for assessing digital literacy. This tool is called the &lt;a href="http://www.digitalliteracyassessment.org/index.php"&gt;Northstar Basic Computer Skills Assessment&lt;/a&gt;. Much like the &lt;a href="http://www.adultedonline.org/index.cfm"&gt;Technology Integration Self-Assessment (TISA)&lt;/a&gt; for teachers, the Northstar Assessment enables students to demonstrate where they have strong skills and where they need additional skills and knowledge.&lt;/p&gt;
+&lt;p&gt;Furthermore, gather information on what technology devices your students already have and use frequently. Having an understanding of your students’ technology skills and their level of access to technology devices can help you plan lessons that build upon your students’ current technology skill levels and gradually advance them, while concurrently deepening student learning in academic subjects.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936438</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="22">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>The O in Post: Objectives</title>
+        <content>&lt;p&gt;When developing learning objectives for the unit or lesson, phrase them as an observable behavior. What will the learners be able to do at the end of the unit or lesson?&lt;/p&gt;
+&lt;p&gt;Iowa State University has developed a model for learning objectives which includes many examples based on Bloom’s Taxonomy. Read more about this model &lt;a href="http://www.celt.iastate.edu/teaching/RevisedBlooms1.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For example, in a kitchen science lesson on reading and writing recipes, the learning objectives could be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;learn new vocabulary words used in a recipe&lt;/li&gt;
+&lt;li&gt;categorize ingredients used in a recipe as dry or liquid&lt;/li&gt;
+&lt;li&gt;identify common kitchen tools and their uses&lt;/li&gt;
+&lt;li&gt;sequence the recipe steps by the  “tie-together” words used in a recipe (e.g., next, first)&lt;/li&gt;
+&lt;li&gt;learn abbreviations for common time and measurement terms&lt;/li&gt;
+&lt;li&gt;understand how to read a recipe (e.g., a recipe is written in two parts: the ingredients and the steps for execution)&lt;/li&gt;
+&lt;li&gt;write a recipe for how to cook your favorite dish or dessert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unit or lesson objectives often align with college and career standards adopted by your state. Check with your &lt;a href="http://wdcrobcolp01.ed.gov/Programs/EROD/org_list.cfm?category_cd=DAE"&gt;state office&lt;/a&gt; to see if your state has adopted content standards that will determine the unit and lesson topics you will teach.&lt;/p&gt;
+&lt;p&gt;Please note that while technology is integrated as a strategy to achieve the unit or lesson learning objectives, learning how to use a specific technology tool should not be the end goal.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Kitchen Science Short Video Lessons&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;TV411: What's Cooking?&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The mission of TV411 is to help adults gain the basic reading, writing, math, and science skills they need to achieve their educational, career, and personal goals. TV411 creates educationally sound and entertaining multimedia learning materials. The &lt;a href="http://www.tv411.org/science"&gt;TV411: What’s Cooking &lt;/a&gt;video series focus on topics in kitchen science. Students can explore the TV411 site on their own time watch the entire series.&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936469</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="23">
+        <pagenum>7</pagenum>
+        <subchapter>1</subchapter>
+        <title>The S in POST: Strategy</title>
+        <content>&lt;p&gt;Considering your students’ goals, their existing technology skills, and areas of challenge, what strategies will you apply to achieve the learning objectives of the unit or lesson?&lt;/p&gt;
+&lt;p&gt;Strategies are the activities that lead to the outcomes. Read this lesson plan: &lt;a href="http://www.learnnc.org/lp/people/472"&gt;&lt;em&gt;Let’s Become Chefs!&lt;/em&gt;&lt;/a&gt; on recipes created by Sarah Ann Parker for LEARN NC. Examples of strategies she employs to achieve the learning objectives are the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brainstorm orally with students where they have seen recipes. Have students tell experiences they have had previously with preparing recipes.&lt;/li&gt;
+&lt;li&gt;Handout copies of Mac ‘n Cheese recipe. Show students overhead transparency of the Recipe Writing Rubric. Go through rubric for transition words and adverbs, having students highlight each feature in the recipe with a different color. Discuss the other features from the rubric that they find in the recipe.&lt;/li&gt;
+&lt;li&gt;As a final activity, create a class book of favorite recipes. Have students select a favorite recipe they use at home and write it down. Have them revise their recipes with their group members or a partner, using the recipe writing rubric as a guide for revision. Collect final drafts of recipes into a class recipe book.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;/h4&gt;
+&lt;h5&gt;&lt;br /&gt;Strategies for the Digital Age&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;There are a variety of strategies teachers employ to achieve learning objectives. Among those strategies that incorporate the use of technology include presenting ideas using media; using online resources to search, evaluate, and organize information; and generating texts and multimedia documents. To find out more, read the section on Literacy in a Digital Age on page 6 of &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-188"&gt;&lt;em&gt;Improving Adult Literacy Instruction: Developing Reading and Writing&lt;/em&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936499</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="24">
+        <pagenum>8</pagenum>
+        <subchapter>1</subchapter>
+        <title>The T in POST: Technology</title>
+        <content>&lt;p&gt;What technology tools best support your objectives and match your students’ skills? What do you have the capacity to implement?&lt;/p&gt;
+&lt;p&gt;You have assessed your students’ technology skills and their learning goals. You have developed a lesson with learning objectives and strategies. Maybe this is even a lesson you currently teach. Now, you have to find the right technology tool to fit the students’ skills, lesson objectives and strategies.&lt;/p&gt;
+&lt;p&gt;In the example of this recipe lesson, the following was the last strategy mentioned:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As a final activity, create a class book of favorite recipes. Have students select a favorite recipe they use at home and write it down. Have them revise their recipes with their group members or a partner, using the recipe writing rubric as a guide for revision. Collect final drafts of recipes into a class recipe book.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Stop and Reflect&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read the strategy mentioned above again:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: small;"&gt;As a final activity, create a class book of favorite recipes. Have students select a favorite recipe they use at home and write it down. Have them revise their recipes with their group members or a partner, using the recipe writing rubric as a guide for revision. Collect final drafts of recipes into a class recipe book.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;What are some creative ways to integrate technology in implementing this strategy? List a couple of ways that you can integrate technology into this strategy.&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Share your ideas with the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-integrating-technology-adult-education-classroom"&gt;LINCS Technology and Learning Group&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936542</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="25">
+        <pagenum>10</pagenum>
+        <subchapter>1</subchapter>
+        <title>Applying the POST Method</title>
+        <content>&lt;p&gt;Now comes the exciting part! You will now have the opportunity to apply what you have learned about the POST Method to a unit or lesson in your classroom.&lt;/p&gt;
+&lt;p&gt;Choose a unit or lesson that you currently teach. Then, follow the considerations outlined in the method:&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;People&lt;/strong&gt; – &lt;em&gt;Who are my students and what are their learning goals? What are their existing technology skills, areas of challenge, and level of access to technology devices?&lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Objectives&lt;/strong&gt; – &lt;em&gt;What are the learning objectives for the unit or lesson? When possible, objectives should describe observable behavior. What will the learners be able to do at the end of the unit or lesson?&lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Strategy&lt;/strong&gt; – &lt;em&gt;Considering your students’ goals, their existing technology skills, and areas of challenge, what strategies will you apply to achieve the learning objectives of the unit or lesson?&lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Technology&lt;/strong&gt; – &lt;em&gt;What technology tools best support your objectives and match your students’ skills? What do you have the capacity to implement?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Stop and Reflect&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Technology Integration Action Plan&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+Download the template: &lt;a href="@@PLUGINFILE@@/Tech_Integration_Action_PlanFILLABLE.pdf" target="blank"&gt;Technology Integration Action Plan&lt;/a&gt;, which is comprised of three parts:
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Part 1 – Applying the POST Method&lt;/li&gt;
+&lt;li&gt;Part 2 – Planning for Integrating Technology&lt;/li&gt;
+&lt;li&gt;Part 3 – Reflecting on Integrating Technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;As you move through the course, we will walk through each part of the template. At this time, focus on &lt;strong&gt;Part 1 – Applying the POST Method&lt;/strong&gt;. Complete as much of Part 1 of the template as you can, with considerations for your students first – their learning goals, existing technology skills, and areas of challenge. As you move through the course, you will learn about additional technology tools that you can add to the Technology section of Part 1.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span style="color: #9f2c29;"&gt;Continue onto Module 2, Session 2 Subtopics&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936587</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="26">
+        <pagenum>9</pagenum>
+        <subchapter>1</subchapter>
+        <title>The T in POST: Technology</title>
+        <content>&lt;p&gt;A technology tool that could enhance and extend the lesson would be to create a blog of student recipes. Depending on your students’ level of access to technology devices, the technology skills and goals of your students, students can write the recipes and give them to you to post on the blog; students can type their recipes for you to post on the blog; or they can learn how to type and post their own work on the blog.&lt;/p&gt;
+&lt;p&gt;The benefit of taking the recipes from a paper format to an online format is that the recipes can be shared outside the classroom, and students may work more diligently knowing that the audience is going to be people beyond their teacher and classmates. The blog software is useful because it allows for a very professional looking website without much technical skill. Moreover, if your lesson includes students posting on the blog themselves, the skills they learn can be applied to making their own blogs to create online portfolios of their work. Through the use of this strategy, students also practice keyboarding skills, conduct online searches of images to illustrate their recipes, and apply the rules of use around &lt;a href="http://creativecommons.org/"&gt;creative commons&lt;/a&gt;*.&lt;/p&gt;
+&lt;p&gt;In Session 2, we will introduce and explore additional guidelines to help you think through how to select the technology tool that meets your students’ learning goals and lesson objectives.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Online Portfolios&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read this article from the New York Times called "&lt;a href="http://www.nytimes.com/2012/07/01/jobs/an-online-portfolio-can-showcase-your-work-career-couch.html?_r=4&amp;amp;"&gt;Showcasing Your Work, in an Online Portfolio&lt;/a&gt;" about the usefulness and typical content of an online portfolio when applying for a job. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;br /&gt;&lt;a href="http://www.wikihow.com/Create-an-Online-Portfolio"&gt;Click here&lt;/a&gt; for directions on how to make an online portfolio using Blogger.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;*Creative Commons is a non-profit organization that enables the sharing and use of creativity and knowledge with the world through free legal tools. It develops, supports, and stewards legal and technical infrastructure that maximizes digital creativity, sharing, and innovation.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1384978293</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

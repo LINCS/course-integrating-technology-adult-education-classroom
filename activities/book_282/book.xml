@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="282" modulename="book" contextid="1822">
+  <book id="2">
+    <name>Module 1, Session 1 Subtopics</name>
+    <intro>&lt;p&gt;no text&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1382561979</timecreated>
+    <timemodified>1386711330</timemodified>
+    <chapters>
+      <chapter id="5">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 1: Technology Can Improve Instruction</title>
+        <content>&lt;h3&gt;What the Research Says&lt;/h3&gt;
+&lt;p&gt;In &lt;i&gt;Improving Adult Literacy Instruction: Options for Practice and Research&lt;/i&gt;, the National Research Council (NRC, 2012, Chapter 6) acknowledges that technology, in and of itself, does not produce learning. However, many aspects of how specific technology tools and platforms can be integrated into instruction reflect the key teaching practices that support deeper learning, as described in a booklet also published by the NRC, &lt;i&gt;Education for Life and Work: Guide for Practitioners &lt;/i&gt;(2012). Technology can and does amplify and extend instructional strategies and provides opportunities for repeated practice and feedback, which can lead to greater retention and application of new knowledge and skills. The benefits of integrating technology into instructional practices include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps students develop 21&lt;sup&gt;st&lt;/sup&gt; century employment skills&lt;/li&gt;
+&lt;li&gt;Makes learning tasks authentic and challenging&lt;/li&gt;
+&lt;li&gt;Makes challenging content more accessible&lt;/li&gt;
+&lt;li&gt;Makes learning relevant - more young people are entering adult education classes who are familiar with and use technology&lt;/li&gt;
+&lt;li&gt;Supports the diverse needs of adult learners&lt;/li&gt;
+&lt;li&gt;Helps students bring real life experiences into the classroom&lt;/li&gt;
+&lt;li&gt;Extends time devoted to a project&lt;/li&gt;
+&lt;li&gt;Supports collaborative work&lt;/li&gt;
+&lt;li&gt;Provides inexpensive, multiplatform accessibility to all learners&lt;/li&gt;
+&lt;li&gt;Helps break down the digital divide&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-bottom: 30px;"&gt;Session 1 explores how teachers can use technology to improve instruction by using technology to support the Universal Design for Learning (UDL) principals and the integration of 21st century employment skills.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="Feedback"&gt;The importance of integrating technology in education for instruction and learning is underscored by several U.S. Department of Education sponsored reports. These include the above mentioned &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-189"&gt;&lt;i&gt;Improving Adult Literacy Instruction: Options for Practice and Research&lt;/i&gt;&lt;/a&gt;&lt;i&gt; &lt;/i&gt;published by the National Research Council (NRC, 2012). In addition to Chapter 6-Technology to Promote Adult Literacy, referenced above, you may be interested in Appendix B-Literacy in a Digital Age. The NRC booklet, &lt;a href="http://sites.nationalacademies.org/dbasse/bota/education_for_life_and_work/"&gt;&lt;i&gt;Education for Life and Work: Guide for Practitioners &lt;/i&gt;&lt;/a&gt;(2012), also focuses on teaching practices that deepen learning – many of which can be applied through integrating technology.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Other notable reports on technology from the U.S. Department of Education include: &lt;a href="http://www.ed.gov/sites/default/files/netp2010.pdf"&gt;&lt;i&gt;Transforming American Education: Learning Powered by Technology, National Educational Technology Plan 2010&lt;/i&gt;&lt;/a&gt;&lt;i&gt; &lt;/i&gt;and the 2013 companion for adult education: &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-709"&gt;&lt;i&gt;Connected Teaching and Personalized Learning: Implications of the National Education Technology Plan for Adult Education (Draft for public comment)&lt;/i&gt;&lt;i&gt;.&lt;/i&gt;&lt;/a&gt;&lt;span style="font-size: small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562071</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="6">
+        <pagenum>2</pagenum>
+        <subchapter>1</subchapter>
+        <title>Technology Supports Universal Design For Learning (UDL)</title>
+        <content>&lt;p style="margin-bottom: 20px;"&gt;Technology supports the Universal Design for Learning (UDL) approach to plan ways to present material in multiple modalities and formats. UDL is a set of principles for curriculum development that strives to provide equal opportunities for all individuals to learn. The principles provide a blueprint for creating instructional goals, methods, materials, and assessments that work for everyone. Rather than having a single, one-size-fits-all solution, UDL promotes flexible approaches that can be customized and adjusted for individual needs. Familiarize yourself with UDL by watching this four and a half minute video, &lt;em&gt;UDL at a Glance&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=bDvKnY0g6e4"&gt;UDL At A Glance&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are going to look at the three main principles in UDL:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Principle 1: Provide Multiple Means of Representation&lt;/li&gt;
+&lt;li&gt;Principle 2: Provide Multiple Means of Action and Expression&lt;/li&gt;
+&lt;li&gt;Principle 3: Provide Multiple Means of Engagement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-bottom: 10px;"&gt;&lt;span style="color: #ffffff;"&gt;Your paragraph text here.&lt;/span&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Universal Design for Learning&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;To learn more about UDL, visit the &lt;a href="http://www.cast.org/"&gt;Center for Applied and Special Technology (CAST)&lt;/a&gt; or download this Teaching Excellence in Adult Literacy (TEAL) Center &lt;a href="https://teal.ed.gov/sites/default/files/Fact-Sheets/2_TEAL_UDL.pdf"&gt;fact sheet&lt;/a&gt;. You can also visit the &lt;a href="http://www.udlcenter.org/"&gt;National Center on Universal Design for Learning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Click here to read about UDL Guidelines 2.0: &lt;br /&gt;&lt;a href="http://www.udlcenter.org/sites/udlcenter.org/files/UDL_Guidelines_Version_2.0_(Final)_3.doc" target="_blank"&gt;http://www.udlcenter.org/sites/udlcenter.org/files/UDL_Guidelines_Version_2.0_(Final)_3.doc&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Click here to learn more about Universal Design for Learning and Technology: &lt;br /&gt;&lt;a href="http://www.udlcenter.org/implementation/examples"&gt;http://www.udlcenter.org/implementation/examples&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Click here to listen to a podcast on personalized learning using UDL and technology&lt;br /&gt; &lt;a href="http://www.virtualstaffroom.net/2012/01/vsr46-this-is-personal.html"&gt;http://www.virtualstaffroom.net/2012/01/vsr46-this-is-personal.html&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562182</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="7">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>UDL Principle 1: Multiple Means of Representation</title>
+        <content>&lt;p&gt;According to the &lt;a href="http://www.cast.org/"&gt;Center for Applied and Special Technology (CAST),&lt;/a&gt; “Learners differ in the ways that they perceive and comprehend information that is presented to them. For example, those with sensory disabilities (e.g., blindness or deafness); learning disabilities (e.g., dyslexia); language or cultural differences, and so forth may all require different ways of approaching content. Others may simply grasp information quicker or more efficiently through visual or auditory means rather than printed text. Learning, and transfer of learning, also occurs when multiple representations are used because it allows students to make connections within, as well as between, concepts. In short, there is not one means of representation that will be optimal for all learners;&lt;i&gt; providing options for representation is essential.&lt;/i&gt;”&lt;/p&gt;
+&lt;p style="margin-bottom: 30px;"&gt;Integrating technology into teaching can support multiple means of representation as there are a large number of technology tools that can take the same information and easily represent it differently. Moreover, because most of these tools are free or low cost, students can use the tools for their learning outside of class as well as when they are in class.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Example Technology Tool that Supports Principle 1: Multiple Means of Representation&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Readability&lt;/h5&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://www.readability.com/"&gt;&lt;br /&gt;Readability&lt;/a&gt; is a simple tool that makes reading on the web more enjoyable by eliminating the clutter around what you are reading and focusing on the text.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562418</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="8">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>UDL Principle 2: Multiple Means of Action and Expression</title>
+        <content>&lt;p&gt;CAST explains this second guideline this way, "Learners differ in the ways that they can navigate a learning environment and express what they know. For example, individuals with significant movement impairments (e.g., cerebral palsy), those who struggle with strategic and organizational abilities (executive function disorders), those who have language barriers, and so forth, approach learning tasks very differently. Some may be able to express themselves well in written text but not speech, and vice versa. It should also be recognized that action and expression require a great deal of strategy, practice, and organization, and this is another area in which learners can differ. In reality, there is not one means of action and expression that will be optimal for all learners; &lt;i&gt;providing options for action and expression is essential.&lt;/i&gt;"&lt;i&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p style="margin-bottom: 30px;"&gt;Integrating technology into instruction supports multiple means of action and expression as learners can choose from a large number of technology tools to express their learning in many different formats depending on the assignment.&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Example Technology Tool that Supports Principle 2: Multiple Means of Action and Expression&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;VoiceThread&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://voicethread.com/"&gt;VoiceThread&lt;/a&gt; is an online tool that allows learners or teachers to asynchronously record comments by text, voice, or video on a shared presentation that can include any form of digital media (i.e. images, audio, video, and text).&lt;br /&gt;&lt;br /&gt;For more information about VoiceThread, read the white paper from Teaching and Learning with Technology at Pennsylvania State University: &lt;em&gt;&lt;a href="http://tlt.psu.edu/2009/01/03/hot-team-voicethread/"&gt;7 Things You Need to Know about VoiceThread&lt;/a&gt;&lt;/em&gt;.&lt;br /&gt;&lt;br /&gt;Read about how English language learners at Bophany Huot, City College of San Francisco use VoiceThread to practice speaking; &lt;a href="https://voicethread.com/about/library/Language_learners_use_VoiceThread_to_practice_speaking/"&gt;https://voicethread.com/about/library/Language_learners_use_VoiceThread_to_practice_speaking/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562531</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="9">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>UDL Principle 3: Multiple Means of Engagement</title>
+        <content>&lt;p&gt;CAST explains the third guideline this way, "Affect represents a crucial element to learning, and learners differ markedly in the ways in which they can be engaged or motivated to learn. There are a variety of sources that can influence individual variation in affect including neurology, culture, personal relevance, subjectivity, and background knowledge, along with a variety of other factors presented in these guidelines. Some learners are highly engaged by spontaneity and novelty while other are disengaged, even frightened, by those aspects, preferring strict routine. Some learners might like to work alone, while others prefer to work with their peers. In reality, there is not one means of engagement that will be optimal for all learners in all contexts; &lt;i&gt;providing multiple options for engagement is essential.&lt;/i&gt;"&lt;/p&gt;
+&lt;p style="margin-bottom: 30px;"&gt;Integrating technology into instruction supports multiple means of engagement as instructors can choose from a large number of technology tools to motivate learners to engage with the content. Technology can connect learners with varying activities and sources of information that make learning relevant and authentic. Additionally, technology allows learners to connect with their peers in collaborative online environments synchronously and asynchronously to learn or to gauge their own learning and study independently.&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Example Technology Tool that Supports Principle 3: Multiple Means of Engagement&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Paper.Li&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://paper.li/"&gt;Paper.Li&lt;/a&gt; is an online tool that allows teachers or learners to create an online magazine or newspaper which will automatically find, publish, and promote articles, videos, and photos across the web based on the search criteria that is entered. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;To view a six minute video&lt;/span&gt;, visit: &lt;a href="http://www.youtube.com/watch?v=SN5xoxEw7Sc" target="_blank"&gt;&lt;em&gt;How to Create a Paper.li Newspaper!&lt;/em&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Paper.li is being used in education by teachers and students. Teachers are publishing paper.li online newspapers on the unit topic(s) covered in class for students to read daily or weekly. Curating and displaying the content in a friendly, readable format keeps the content relevant, up-to-date, and engaging. Students are also creating paper.li online newspapers as part of class projects to share with their peers.&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562667</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="10">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Technology Integrates 21st Century Employment Skills</title>
+        <content>&lt;p&gt;Technology skills are essential for employment in the 21st century. In addition to supporting UDL, the use of technology in the classroom integrates 21st century employment skills into the teaching of academic subjects. &lt;a href="http://www.p21.org/"&gt;Partnership for 21st Century Skills (P21)&lt;/a&gt;, a national collaboration between education, business, community and government leaders, seeks to address the gap between the knowledge and skills students learn in school and the knowledge and skills they need as community members and employees by providing tools and resources to help schools prepare students for the 21st century. To succeed in work and in life, P21 identifies three sets of skills students should master. They are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Life and Career Skills&lt;/li&gt;
+&lt;li&gt;Learning and Innovation Skills (critical thinking, communication, collaboration, creativity)&lt;/li&gt;
+&lt;li&gt;Information, Media, and Technology Skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; A traditional aspect of adult education curricula concerns life and career skills, and teachers have many resources and approaches for instruction. The equally important area of learning and innovation skills can be addressed several ways, one of which is through integrating technology with multiple content areas. For the purposes of this course, we will focus on Information, Media, and Technology skills.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562838</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="11">
+        <pagenum>7</pagenum>
+        <subchapter>1</subchapter>
+        <title>Information, Media, and Technology Skills</title>
+        <content>&lt;p&gt;Integrating technology in the classroom can enhance students’ Information, Media, and Technology Skills. Information, Media, and Technology Skills are comprised of information literacy skills &lt;i&gt;(the ability to access, evaluate, use, and manage information)&lt;/i&gt;, media literacy skills &lt;i&gt;(the ability to analyze, access, and use media),&lt;/i&gt; and information, communications, and technology (ICT) literacy skills. As defined by P21, mastery of ICT literacy means the ability to apply technology effectively. This means that individuals are able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use technology as a tool to research, organize, evaluate, and communicate information&lt;/li&gt;
+&lt;li&gt;Use digital technologies (e.g., computers, PDAs, media players, GPS), communication/networking tools, and social networks appropriately to access, manage, integrate, evaluate, and create information to successfully function in a knowledge economy&lt;/li&gt;
+&lt;li&gt;Apply a fundamental understanding of the ethical/legal issues surrounding the access and use of information technologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Introducing and broadening student use of technology improves instruction in the classroom not only by engaging learners through multiple means of representation and expression, but by preparing students to succeed in the technology-rich environment of life and work in the 21st century.&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Framework for 21st Century Learning&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;To help practitioners integrate technology skills into the teaching of core academic subjects, the &lt;a href="http://www.p21.org/"&gt;Partnership for 21st Century Skills (P21)&lt;/a&gt; has developed a uniﬁed, collective vision for learning known as the Framework for 21st Century Learning. This Framework describes the skills, knowledge and expertise students must master to succeed in work and life; it is a blend of content knowledge, speciﬁc skills, expertise, and literacies. To read more about the framework, visit: &lt;a href="http://www.p21.org/storage/documents/P21_Framework.pdf"&gt;http://www.p21.org/storage/documents/P21_Framework.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span style="color: #9f2c29;"&gt;Continue onto Module 1, Session 2 Subtopics&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1382562935</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

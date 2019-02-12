@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="150" contextid="1818" version="2013110501">
+  <blockname>news_items</blockname>
+  <parentcontextid>1814</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>1</defaultweight>
+  <configdata></configdata>
+  <block_positions>
+    <block_position id="33">
+      <contextid>1814</contextid>
+      <pagetype>course-view-topcoll</pagetype>
+      <subpage></subpage>
+      <visible>1</visible>
+      <region>side-pre</region>
+      <weight>2</weight>
+    </block_position>
+  </block_positions>
+</block>

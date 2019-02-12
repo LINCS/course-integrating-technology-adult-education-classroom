@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="294" modulename="book" contextid="1834">
+  <book id="6">
+    <name>Module 3, Session 1 Subtopics</name>
+    <intro>&lt;p&gt;text&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1383934152</timecreated>
+    <timemodified>1385405150</timemodified>
+    <chapters>
+      <chapter id="34">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 1: Five Categories of Technology Tools</title>
+        <content>&lt;h3&gt;Introduction to the Five Categories of Technology Tools&lt;/h3&gt;
+&lt;p&gt;&lt;img width="216" height="254" style="float: right;" alt="image of the Emerging Technologies publication cover" src="@@PLUGINFILE@@/EmergingTech_cover.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;We have explored why we should integrate technology and how to integrate it, but what tools should be used? When considering technology tools, the vast and ever increasing number of tools available can appear intimidating. Should you use a blog or a wiki? What is Twitter good for?&lt;/p&gt;
+&lt;p&gt;In this session, we will look at a system developed by Mark Warschauer and Meii-Ling Liaw in their 2010 publication, &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-393"&gt;&lt;em&gt;Emerging Technologies in Adult Literacy and Language Education&lt;/em&gt;&lt;/a&gt;. This system puts technology tools for education into five categories. This classification system can help you narrow down your choices when selecting a technology tool for your classroom. We will describe the five categories of technology tools and provide examples of technology tools for each of the categories. Afterward, we will look at classroom examples of using the technology tools and take time to reflect on your own experiences using technology tools.&lt;/p&gt;
+&lt;p&gt;Before moving on, we encourage you to spend some time reading the full 20-page publication, &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-393"&gt;&lt;em&gt;Emerging Technologies in Adult Literacy and Language Education&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Existing and Promising Technologies&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;In &lt;em&gt;Improving Adult Literacy Instruction: Supporting Learning and Motivation&lt;/em&gt;, the section on Technologies to Support Adult Literacy (pages 25-31) lists existing and promising technologies that are available for use with adult learners. These technologies can be categorized into Warschauer and Liaw’s (2010) five categories of technology tools and include group collaborative software, commenting tools embedded in programs, virtual meeting tools, speech-to-text and text-to-speech tools, intelligent tutoring systems, serious games, and a host of others. &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-189"&gt;Click here &lt;/a&gt;to read more about these exciting and promising technologies.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383935279</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="35">
+        <pagenum>2</pagenum>
+        <subchapter>1</subchapter>
+        <title>Five Categories of Technology Tools</title>
+        <content>&lt;p&gt;In &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-393"&gt;&lt;em&gt;Emerging Technologies in Adult Literacy and Language Education&lt;/em&gt;&lt;/a&gt; (Warschauer and Liaw, 2010), the five categories of technology tools introduced are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multimodal communication tools&lt;/li&gt;
+&lt;li&gt;Collaborative writing tools&lt;/li&gt;
+&lt;li&gt;Productivity tools&lt;/li&gt;
+&lt;li&gt;Online networking tools&lt;/li&gt;
+&lt;li&gt;1:1 and mobile learning tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this session, we will review the characteristics of each category and also give examples of technology tools that fit each category. It should be noted that most technology tools can be used for purposes different than the ones for which they have been originally designed, and so you may be able to use a tool in more than one category, depending on what you do with it.&lt;/p&gt;
+&lt;p&gt;All of the tools mentioned in this module are free, and most require users to create an account in order to access them. Some tools offer access to different levels of features if you pay a fee.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;There are other ways to categorize technology tools, like the &lt;a href="http://digitallearningworld.com/blooms-digital-taxonomy-pyramid"&gt;Bloom's Digital Taxonomy Pyramid &lt;/a&gt;created by Samantha Penney from the University of Southern Indiana. The tools listed on the pyramid are clickable links to the tools themselves. But as stated above, technology tools can belong in more than one category, depending on what you do with them.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936319</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="36">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Multimodal Communication Tools</title>
+        <content>&lt;p&gt;Multimodal communication tools are those technology tools which allow the user to communicate through a variety of mediums or "modes." Referring back to Module 1, these are the types of tools particularly useful when applying the three principles of Universal Design for Learning (UDL), which are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide Multiple Means of Representation&lt;/li&gt;
+&lt;li&gt;Provide Multiple Means of Action and Expression&lt;/li&gt;
+&lt;li&gt;Provide Multiple Means of Engagement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The multi-modes or mediums of communication these tools support include video, photographs, images, and sound.&lt;/p&gt;
+&lt;p&gt;Some technology tools that fit in the multimodal category include:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h5&gt;Video sharing sites&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;YouTube:&lt;/strong&gt; YouTube is an online video technology tool where you can access existing videos and also post your own.  YouTube is part of the Google family so a Google account can be used to log into YouTube and create your own "Channel."&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TeacherTube:&lt;/strong&gt; If you find that YouTube is blocked at your site, you may find that TeacherTube is a better option. The videos available on TeacherTube are more focused on education.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vimeo:&lt;/strong&gt; Vimeo is another video sharing website much like YouTube.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h5&gt;Visual content&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Flickr:&lt;/strong&gt; Flickr is an online photo sharing tool.  Flickr can be used to share photos, but also as a place to search for photos that are copyright free and part of the creative commons.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pinterest:&lt;/strong&gt; A social networking platform that allows users to "pin" images from the internet to "boards" they create. The images then serve as links back to the websites where they came from originally, making Pinterest a visual bookmarking tool. Pinterest boards can be collaborative.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Audio content&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Podcasts&lt;/strong&gt;: Developed originally as a way to play spoken content on iPods, podcasts are sound files on specific topics. Many radio shows and lectures are available as podcasts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPadio:&lt;/strong&gt; Using iPadio, you and your students can create your own podcasts using a cell phone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iTunes U:&lt;/strong&gt; iTunesU is a website that houses an extensive library of free podcasts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Multimodal Communications&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;To learn more about multimodal communications and technology, read &lt;a href="http://www.ncte.org/governance/multimodalliteracies"&gt;this article&lt;/a&gt; from the National Council of the Teachers of English on Multimodal Literacies and Technology.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h5&gt;Creative Commons&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://creativecommons.org/"&gt;Creative Commons&lt;/a&gt; is a non-profit organization that enables the sharing and use of creativity and knowledge with the world through free legal tools. It develops, supports, and stewards legal and technical infrastructure that maximizes digital creativity, sharing, and innovation. An example of content licensed under Creative Commons is the &lt;a href="http://www.oercommons.org/"&gt;Open Educational Resources (OER) Commons &lt;/a&gt;website. OER Commons offers teaching and learning materials that are freely available and adaptable for public use.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;From June 2012 – June 2015, the U.S. Department of Education, Office of Vocational and Adult Education has funded the Open Education Resources to Support Adult STEM Teaching and Learning project. Through this project, master educators in science and math identify OERs suitable for adult learners and review and evaluate the resources based on criteria. The reviewed resources can be found in the &lt;a href="http://www.oercommons.org/groups/oer-stem-science-user-group/47/"&gt;OER STEM Science User Group &lt;/a&gt;and &lt;a href="http://www.oercommons.org/groups/oer-stem-math-user-group/45/"&gt;OER STEM Math User Group &lt;/a&gt;on the OER Commons website.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936336</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="37">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Collaborative Writing Tools</title>
+        <content>&lt;p&gt;Collaborative writing tools are the technology tools that support online writing and allow multiple people to write on the same document. The level of collaboration can vary and can occur at different points in the writing process.&lt;/p&gt;
+&lt;p&gt;There are a number of tools that have been developed just for collaborative writing, but we are looking at the examples that have broader capabilities, and if used, would develop technology skills that would be useful for students beyond collaborative writing.&lt;/p&gt;
+&lt;p&gt;Some technology tools that fit in the collaborative writing category include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Wordpress, Blogger, and Tumblr:&lt;/strong&gt; These tools are blogging platforms that allow users to create an online space to share written and visual content and interact with their readers via comments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Docs/Google Drive:&lt;/strong&gt; Google offers online file sharing that allows multiple users to write on the same document at the same time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;The University of Carolina Writing Center has developed a &lt;a href="http://writingcenter.unc.edu/handouts/group-writing/"&gt;worksheet&lt;/a&gt; on Group Writing that talks about a continuum of collaboration and looks at how collaboration can be integrated into writing projects at different point in the writing process.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936407</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="38">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Productivity Tools</title>
+        <content>&lt;p&gt;Productivity tools are the technology tools that have been developed to make us more productive. These are tools that people use to track and share information with themselves or with coworkers or classmates. Online calendars, task lists, shared folders are broad categories of productivity tools.&lt;/p&gt;
+&lt;p&gt;Being familiar with productivity tools is beneficial for students since these are tools that have clear functions they can use in their work and personal lives.&lt;/p&gt;
+&lt;p&gt;Some technology tools that fit in the productivity category include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Evernote&lt;/strong&gt;: Evernote is a note-taking tool that works across platforms (Apple and Android; cell phone, tablet and computer). Evernote can also be used for writing assignments. Content will sync across your devices and can be shared with other people even if they do not have an Evernote account.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitly:&lt;/strong&gt; A tool that allows the user to shorten URLs. Bitly tracks how many times the shortened URL is clicked, and can make Quick Response (QR) Codes of shortened links.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Quick Response (QR) Codes and How to Create Them with Bitly&lt;/h5&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read this article from Mashable about how to create QR Codes with Bitly: &lt;a href="http://mashable.com/2010/10/13/bit-ly-qr-codes/"&gt;http://mashable.com/2010/10/13/bit-ly-qr-codes/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936438</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="39">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Online Networking Tools</title>
+        <content>&lt;p&gt;Online networking tools are also called social networking tools. These are probably the most widely known type of tools. Even if you do not have a Facebook account, you've probably heard of Facebook.&lt;/p&gt;
+&lt;p&gt;Online networking tools are useful in education because they provide spaces for students to continue to work with each other outside the classroom. Most colleges and higher paying jobs are now requiring people to share material and communicate with one another outside of the classroom or office using an online networking tool, so using these types of tools in adult education classes is very valuable practice for adult students.&lt;/p&gt;
+&lt;p&gt;Some technology tools that fit in the online networking category include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Facebook:&lt;/strong&gt; An online community that allows users to create personal profiles, groups, and pages as ways to share information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; A microblogging social networking tool that allows users to post 140 character messages and follow the messages of other Twitter users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Digital Citizenship&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Being safe and savvy online is an important part of digital citizenship.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;“Digital citizenship is a concept which helps teachers, technology leaders and parents to understand what students/children/technology users should know to use technology appropriately. Digital citizenship is more than just a teaching tool; it is a way to prepare students/technology users for a society full of technology. &lt;strong&gt;Digital citizenship is the norms of appropriate, responsible technology use.&lt;/strong&gt; Too often we are seeing students as well as adults misusing and abusing technology ... The issue is more than what the users do not know, but what is considered appropriate technology usage.” From the website, Digital Citizenship: Using Technology Appropriately. To learn more, visit: &lt;a href="http://www.digitalcitizenship.net/"&gt;http://www.digitalcitizenship.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383946241</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="40">
+        <pagenum>7</pagenum>
+        <subchapter>1</subchapter>
+        <title>1:1 and Mobile Learning Tools</title>
+        <content>&lt;p&gt;1:1 and mobile learning tools are the technology tools that support working one to one with individual students and developing content that is cell phone and tablet friendly.&lt;/p&gt;
+&lt;p&gt;If more than half your students have smart phones, you may want to consider creating content that can be easily used on small screens. Students can then access the content they need when they need it. This is the idea behind Just-in-Time learning. If you do not have consistent access to computers with your students, using smart phones and tablets can be away to access online content in the classroom. If students learn how to access useful content on their own devices, they will be more likely to continue to do so outside of the classroom.&lt;/p&gt;
+&lt;p&gt;Some technology tools that fit into the 1:1 and mobile learning category include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Quick Response (QR) Codes&lt;/strong&gt;: QR Codes are black and white codes that, when "read" by mobile device applications, take the user to a specific website or to other types of information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Weebly:&lt;/strong&gt; Weebly is a website creation tool that allows the user to easily create a website which is also mobile friendly (it changes layout design depending on the size screen you are using to view the website to make it easier to read).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PollEverywhere:&lt;/strong&gt; PollEverywhere is an online polling tool that allows users to respond via text message, online voting, or Twitter. It turns even the most basic cell phone into a clicker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h5&gt;Just-in-Time Education: Learning in the Global Information Age&lt;/h5&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;The problem with experience, to paraphrase American baseball player Vernon Law, is that it gives the test before the lesson. Students either spend countless hours in classrooms acquiring knowledge that isn't applied until years later (if at all) or they are tested by experience before they even have a chance to learn what they need. Wouldn't it be much better to get the knowledge when and where they need it in real time? Read about how technology supports Just-in-Time education: &lt;a href="http://knowledge.wharton.upenn.edu/article/just-in-time-education-learning-in-the-global-information-age/"&gt;http://knowledge.wharton.upenn.edu/article/just-in-time-education-learning-in-the-global-information-age/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span style="color: #9f2c29;"&gt;Continue onto Module 3, Session 2 Subtopics&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383946305</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

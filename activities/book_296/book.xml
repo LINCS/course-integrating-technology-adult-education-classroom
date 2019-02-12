@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="7" moduleid="296" modulename="book" contextid="1836">
+  <book id="7">
+    <name>Module 3, Session 2 Subtopics</name>
+    <intro>&lt;p&gt;text&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1383934152</timecreated>
+    <timemodified>1385405552</timemodified>
+    <chapters>
+      <chapter id="41">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 2: Observing Classroom Activities for Each Category of Tools</title>
+        <content>&lt;h3 class="Topic"&gt;Technology Tools in Educational Context&lt;/h3&gt;
+&lt;p&gt;Now that we have looked at examples of tools in the five categories, you might feel a little overwhelmed by the options. However, keep in mind that you are applying the technology after having gone through the POST Method, so your choice of technology tools comes after thinking about the People, Objectives, and Strategies you want to employ in your lesson. That should narrow down your choice of technology tools to one of the five categories.&lt;/p&gt;
+&lt;p&gt;In this session, we will look at classroom examples of technology tool integration according to the five categories of tools. Depending on your comfort level with the technology tools we have listed, you might want to try something new, or use a tool you are familiar with for a new purpose or an extended purpose.&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/TechTools_in_Ed_Context.pdf" target="_blank"&gt;Click here&lt;/a&gt; to access a printable table of categorized technology tools used in an educational context.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Stop and Reflect&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h5&gt;Technology Tools in Educational Context&lt;/h5&gt;
+&lt;p&gt;After reviewing the printable table of categorized technology tools used in an educational context, reflect on the following: Were there tools that were mentioned that you would like to explore? Did you learn about new ways of using existing tools? How can one tool be repurposed to meet another need?&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Share your thoughts in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-integrating-technology-adult-education-classroom"&gt;LINCS Technology and Learning Group&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383935279</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="42">
+        <pagenum>2</pagenum>
+        <subchapter>1</subchapter>
+        <title>Reflections from Adult Education Instructors</title>
+        <content>&lt;p&gt;Now that you have explored how technology tools can be used in educational contexts, listen to two adult education instructors as they share how they have integrated technology tools in a classroom unit or lesson. As you listen, think about the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the technology tool the instructor used. Was the instructor comfortable using the tool? If not, what was the instructor’s plan for understanding the tool? &lt;/li&gt;
+&lt;li&gt;Did the tool selected meet the students’ existing technology skills? If not, what was the plan for teaching the students how to use the technology tool? &lt;/li&gt;
+&lt;li&gt;Did the technology tool selected improve instruction and/or deepen student learning? How? &lt;/li&gt;
+&lt;li&gt;Was this technology tool the best choice to implement the teaching strategies of the unit or lesson? What other technology tools could the instructor have selected to use?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After listening to their experiences, you will have the opportunity to share your reflections on these questions in the LINCS Technology and Learning Group.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936319</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="43">
+        <pagenum>3</pagenum>
+        <subchapter>1</subchapter>
+        <title>Reflection from an Intermediate English for Speakers of Other Languages (ESOL) Instructor</title>
+        <content>&lt;p&gt;&lt;img width="133" height="151" style="float: right;" alt="photo of Nell Eckersley" src="@@PLUGINFILE@@/NellEckersley.jpg" /&gt;Listen to Nell Eckersley reflect on a civics lesson at the Edith and Carl Marks Jewish Community House of Bensonhurst. As the culminating activity for her civics unit, her students write letters to the New York City government to share issues that are important to them with the city mayor. As you listen, think and jot down your thoughts about the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the technology tool the instructor used. Was the instructor comfortable using the tool? If not, what was the instructor’s plan for understanding the tool?&lt;/li&gt;
+&lt;li&gt;Did the tool selected meet the students’ existing technology skills? If not, what was the plan for teaching the students how to use the technology tool?&lt;/li&gt;
+&lt;li&gt;Did the technology tool selected improve instruction and/or deepen student learning? How?&lt;/li&gt;
+&lt;li&gt;Was this technology tool the best choice to implement the teaching strategies of the unit or lesson? What other technology tools could the instructor have selected to use?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/Reflection%203%20ESOL%20Class.m4a"&gt;Reflection%203%20ESOL%20Class.m4a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To read the transcript of the audio recording, &lt;a href="$@PAGEVIEWBYID*297@$" target="_blank"&gt;click here&lt;/a&gt;.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936336</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="44">
+        <pagenum>4</pagenum>
+        <subchapter>1</subchapter>
+        <title>Reflection from an Adult Basic Education (ABE) Instructor</title>
+        <content>&lt;p&gt;&lt;img width="111" height="110" style="float: right;" alt="photo of Cynthia Bell" src="@@PLUGINFILE@@/CynthiaBell.jpg" /&gt;Now, listen to an audio reflection from Cynthia Bell about how she incorporated technology into her math instruction.&lt;/p&gt;
+&lt;p&gt;Again, as you listen, think and jot down your thoughts about the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the technology tool the instructor used. Was the instructor comfortable using the tool? If not, what was the instructor’s plan for understanding the tool?&lt;/li&gt;
+&lt;li&gt;Did the tool selected meet the students’ existing technology skills? If not, what was the plan for teaching the students how to use the technology tool?&lt;/li&gt;
+&lt;li&gt;Did the technology tool selected improve instruction and/or deepen student learning? How?&lt;/li&gt;
+&lt;li&gt;Was this technology tool the best choice to implement the teaching strategies of the unit or lesson? What other technology tools could the instructor have selected to use?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/Reflection%204%20ABE%20Class.m4a"&gt;Reflection%204%20ABE%20Class.m4a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To read the transcript of the audio recording, &lt;a href="$@PAGEVIEWBYID*298@$" target="_blank"&gt;click here&lt;/a&gt;.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936407</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="45">
+        <pagenum>5</pagenum>
+        <subchapter>1</subchapter>
+        <title>Reflecting on Integrating Technology</title>
+        <content>&lt;p&gt;You just heard two adult education instructors reflect upon their experiences integrating a technology tool in their classroom instruction, and jotted down your thoughts about the following questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the technology tool the instructor used. Was the instructor comfortable using the tool? If not, what was the instructor’s plan for understanding the tool?&lt;/li&gt;
+&lt;li&gt;Did the tool selected meet the students’ existing technology skills? If not, what was the plan for teaching the students how to use the technology tool?&lt;/li&gt;
+&lt;li&gt;Did the technology tool selected improve instruction and/or deepen student learning? How?&lt;/li&gt;
+&lt;li&gt;Was this technology tool the best choice to implement the teaching strategies of the unit or lesson? What other technology tools could the instructor have selected to use?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Share your responses to the following questions for one instructor reflection in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-integrating-technology-adult-education-classroom"&gt;LINCS Technology and Learning Group&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the course Culminating Activity, you will have the opportunity to redesign a unit or lesson to incorporate the use of a technology tool and then reflect upon your redesigned lesson in &lt;strong&gt;Part 3 – Reflecting on Integrating Technology&lt;/strong&gt; of the Technology Integration Action Plan.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936438</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="46">
+        <pagenum>6</pagenum>
+        <subchapter>1</subchapter>
+        <title>Summary</title>
+        <content>&lt;h3&gt;The key points covered in this module were:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Warschauer and Liaw (2010) developed a classification system to categorize technology tools. This system helps educators understand and select a technology tool for use in the classroom. The five categories of technology tools are:&lt;/li&gt;
+&lt;ol&gt;
+&lt;li&gt;Multimodal communication tools&lt;/li&gt;
+&lt;li&gt;Collaborative writing tools&lt;/li&gt;
+&lt;li&gt;Productivity tools&lt;/li&gt;
+&lt;li&gt;Online networking tools&lt;/li&gt;
+&lt;li&gt;1:1 &amp;amp; mobile learning tools&lt;/li&gt;
+&lt;/ol&gt;
+&lt;li&gt;Examples of technology tools and their use in an educational context is provided for each of the five categories. Most technology tools can be used for purposes different than the ones for which they may have been originally designed; therefore, a tool can be classified in more than one category depending on how it is being used.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #9f2c29;"&gt;Continue onto Culminating Activity and Course Conclusion&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1383936469</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

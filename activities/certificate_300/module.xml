@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="300" version="2015090900">
+  <modulename>certificate</modulename>
+  <sectionid>120</sectionid>
+  <sectionnumber>4</sectionnumber>
+  <idnumber></idnumber>
+  <added>1385397888</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <groupmembersonly>0</groupmembersonly>
+  <completion>1</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availablefrom>0</availablefrom>
+  <availableuntil>0</availableuntil>
+  <showavailability>1</showavailability>
+  <showdescription>0</showdescription>
+  <availability_info>
+    <availability id="49">
+      <sourcecmid>280</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="50">
+      <sourcecmid>282</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="51">
+      <sourcecmid>284</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="52">
+      <sourcecmid>285</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="53">
+      <sourcecmid>287</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="54">
+      <sourcecmid>292</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="55">
+      <sourcecmid>294</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="56">
+      <sourcecmid>296</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="57">
+      <sourcecmid>299</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+    <availability id="58">
+      <sourcecmid>279</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+  </availability_info>
+</module>
