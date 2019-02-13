@@ -1,4 +1,4 @@
-# Course: TEAL: Integrating Technology in the Adult Education Classroom
+# Course: Integrating Technology in the Adult Education Classroom
 This Moodle course is designed for instructors who are at the beginner/intermediate level of knowledge of technology tools and technology integration in the classroom. This course examines the why, how, and what questions for integrating technology in the adult education classroom. This course takes approximately 4 hours to complete.
 
 ## Import Instructions
